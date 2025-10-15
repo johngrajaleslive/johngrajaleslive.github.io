@@ -13,7 +13,7 @@
 
     /* Hero Banner */
     .hero {
-      background: url('https://images.unsplash.com/photo-1529635263560-43bcc79c6c10?auto=format&fit=crop&w=1950&q=80') no-repeat center center;
+      background: url('https://unsplash.com/photos/clear-wine-glass-lot-on-table-O38Id_cyV4M?auto=format&fit=crop&w=1950&q=80') no-repeat center center;
       background-size: cover;
       height: 300px;
       display: flex;
